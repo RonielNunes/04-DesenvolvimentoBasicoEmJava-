@@ -1,0 +1,280 @@
+SOLID/DIP/problem/MySqlConnection.java
+ SOLID.DIP.problem.MySqlConnection
+aulas/OrientacaoObjetos/part04/exemploThis/Veiculo.java
+ aulas.OrientacaoObjetos.part04.exemploThis.Veiculo
+aulas/OrientacaoObjetos/part03/EncapsulamentoHerancaEPolimorfismo/Heranca/Veiculo.java
+ aulas.OrientacaoObjetos.part03.EncapsulamentoHerancaEPolimorfismo.Heranca.Veiculo
+aulas/OrientacaoObjetos/part03/EncapsulamentoHerancaEPolimorfismo/Exercicio/Supervisor.java
+ aulas.OrientacaoObjetos.part03.EncapsulamentoHerancaEPolimorfismo.Exercicio.Supervisor
+aulas/OrientacaoObjetos/part01/paradigma/exemplo001/Pessoa.java
+ aulas.OrientacaoObjetos.part01.paradigma.exemplo001.Pessoa
+aulaParadigmas/finals/CasualGamer.java
+ one.digitalinovation.finals.CasualGamer
+aulas/OrientacaoObjetos/part01/paradigma/exemplo001/Exercicio01/Carro.java
+ aulas.OrientacaoObjetos.part01.paradigma.exemplo001.Exercicio01.Carro
+aulaParadigmas/enums/TipoVeiculo.java
+ one.digitalinovation.enums.TipoVeiculo
+SOLID/DIP/solution/ProdutoRepository.java
+ SOLID.DIP.solution.ProdutoRepository
+aulas/OrientacaoObjetos/part03/EncapsulamentoHerancaEPolimorfismo/Exercicio/Funcionario.java
+ aulas.OrientacaoObjetos.part03.EncapsulamentoHerancaEPolimorfismo.Exercicio.Funcionario
+aulas/OrientacaoObjetos/part02/construtores/Exercicio01/Carro.java
+ aulas.OrientacaoObjetos.part02.construtores.Exercicio01.Carro
+SOLID/DIP/problem/Produto.java
+ SOLID.DIP.problem.Produto
+trabalhandoComDatas/javaCalendar/Exemplo007.java
+ trabalhandoComDatas.javaCalendar.Exemplo007
+SOLID/OCP/problem/DescontoLivroAutoAjuda.java
+ SOLID.OCP.problem.DescontoLivroAutoAjuda
+trabalhandoComDatas/javaLocalDate/Exercicio.java
+ trabalhandoComDatas.javaLocalDate.Exercicio
+aulaParadigmas/enums/Programa.java
+ one.digitalinovation.enums.Programa
+SOLID/DIP/solution/Produto.java
+ SOLID.DIP.solution.Produto
+SOLID/DIP/problem/ProdutoRepository.java
+ SOLID.DIP.problem.ProdutoRepository
+SOLID/OCP/solution/DescontoLivroAcao.java
+ SOLID.OCP.solution.DescontoLivroAcao
+aulas/OrientacaoObjetos/part02/construtores/Exercicio01/ProgramaCarro.java
+ aulas.OrientacaoObjetos.part02.construtores.Exercicio01.ProgramaCarro
+aulaParadigmas/classes/cliente/Cliente.java
+ one.digitalinovation.classes.cliente.Cliente
+SOLID/LSP/problem/Main.java
+ SOLID.LSP.problem.Main
+aula01/operadores/Relacionais.java
+ operadores.Relacionais
+aula01/strings/StringFormat.java
+ strings.StringFormat
+SOLID/DIP/solution/OracleConnection.java
+ SOLID.DIP.solution.OracleConnection
+aulaParadigmas/interfaces/Fiesta.java
+ aulaParadigmas.interfaces.Fiesta
+aulaParadigmas/classes/pessoa/ProgramaDoCliente.java
+ one.digitalinovation.classes.pessoa.ProgramaDoCliente
+SOLID/OCP/solution/DescontoLivroInfantil.java
+ SOLID.OCP.solution.DescontoLivroInfantil
+aulaParadigmas/statics/Programa.java
+ one.digitalinovation.statics.Programa
+tratamentoDeExcecao/ExecaoTryCatch.java
+ tratamentoDeExcecao.ExecaoTryCatch
+aulas/OrientacaoObjetos/part03/EncapsulamentoHerancaEPolimorfismo/Heranca/Motocicleta.java
+ aulas.OrientacaoObjetos.part03.EncapsulamentoHerancaEPolimorfismo.Heranca.Motocicleta
+SOLID/LSP/problem/Retangulo.java
+ SOLID.LSP.problem.Retangulo
+trabalhandoComDatas/javaDateFormat/Exercicio.java
+ trabalhandoComDatas.javaDateFormat.Exercicio
+aulaParadigmas/classes/pessoa/ProgramaPessoaFisica.java
+ one.digitalinovation.classes.pessoa.ProgramaPessoaFisica
+aulas/OrientacaoObjetos/part03/EncapsulamentoHerancaEPolimorfismo/Exercicio/Gerente.java
+ aulas.OrientacaoObjetos.part03.EncapsulamentoHerancaEPolimorfismo.Exercicio.Gerente
+aulaParadigmas/finals/Programa.java
+ one.digitalinovation.finals.Programa
+SOLID/SRP/solution/OrdemDeCompra.java
+ SOLID.SRP.solution.OrdemDeCompra
+ SOLID.SRP.solution.OrdemDeCompraEmail
+ SOLID.SRP.solution.OrdemDeCompraPrint
+ SOLID.SRP.solution.OrdemDeRepository
+aula01/ExercicioIntStream/main.java
+ ExercicioIntStream.main
+aulaParadigmas/abstracts/FormaGeometrica.java
+ aulaParadigmas.abstracts.FormaGeometrica
+aulas/OrientacaoObjetos/part04/exemploEquals/exemplo2/Exemplo2.java
+ aulas.OrientacaoObjetos.part04.exemploEquals.exemplo2.Exemplo2
+trabalhandoComDatas/javaCalendar/Exemplo006.java
+ trabalhandoComDatas.javaCalendar.Exemplo006
+aulaParadigmas/interfaces/Trator.java
+ aulaParadigmas.interfaces.Trator
+SOLID/OCP/solution/DescontoLivro.java
+ SOLID.OCP.solution.DescontoLivro
+aulas/OrientacaoObjetos/part04/exemploEquals/exemplo2/Veiculo.java
+ aulas.OrientacaoObjetos.part04.exemploEquals.exemplo2.Veiculo
+trabalhandoComDatas/javaLocalDate/Exemplo014.java
+ trabalhandoComDatas.javaLocalDate.Exemplo014
+SOLID/ISP/solution/AvesVoam.java
+ SOLID.ISP.solution.AvesVoam
+trabalhandoComArrays/MyClass.java
+ trabalhandoComArrays.MyClass
+SOLID/DIP/solution/DbConnection.java
+ SOLID.DIP.solution.DbConnection
+SOLID/OCP/problem/DescontoLivroAcao.java
+ SOLID.OCP.problem.DescontoLivroAcao
+aulaParadigmas/enums/Status.java
+ one.digitalinovation.enums.Status
+aulas/OrientacaoObjetos/part04/exemploEquals/exemplo1/Carro.java
+ aulas.OrientacaoObjetos.part04.exemploEquals.exemplo1.Carro
+SOLID/LSP/problem/Quadrado.java
+ SOLID.LSP.problem.Quadrado
+aulaParadigmas/abstracts/Quadrado.java
+ aulaParadigmas.abstracts.Quadrado
+aulas/OrientacaoObjetos/part03/EncapsulamentoHerancaEPolimorfismo/Exercicio/Atendente.java
+ aulas.OrientacaoObjetos.part03.EncapsulamentoHerancaEPolimorfismo.Exercicio.Atendente
+aulaParadigmas/classes/pessoa/Usuario.java
+ one.digitalinovation.classes.pessoa.Usuario
+SOLID/SRP/solution/Produto.java
+ SOLID.SRP.solution.Produto
+SOLID/ISP/problem/Ave.java
+ SOLID.ISP.problem.Ave
+aulaParadigmas/tipos/wrappers/Wrappers.java
+ one.digitalinovation.tipos.wrappers.Wrappers
+tratamentoDeExcecao/program.java
+ tratamentoDeExcecao.program
+aulas/OrientacaoObjetos/part03/EncapsulamentoHerancaEPolimorfismo/Encapsulamento/Pessoa.java
+ aulas.OrientacaoObjetos.part03.EncapsulamentoHerancaEPolimorfismo.Encapsulamento.Pessoa
+aulas/OrientacaoObjetos/part04/exemploEquals/exemplo2/Carro.java
+ aulas.OrientacaoObjetos.part04.exemploEquals.exemplo2.Carro
+aulaParadigmas/interfaces/Programa.java
+ aulaParadigmas.interfaces.Programa
+SOLID/ISP/problem/Pinguim.java
+ SOLID.ISP.problem.Pinguim
+trabalhandoComDatas/javaDate/Exemplo001.java
+ trabalhandoComDatas.javaDate.Exemplo001
+aula01/fors/For.java
+ fors.For
+aulas/OrientacaoObjetos/part01/paradigma/exemplo001/Exercicio01/ProgramaCarro.java
+ aulas.OrientacaoObjetos.part01.paradigma.exemplo001.Exercicio01.ProgramaCarro
+SOLID/OCP/problem/ControleDeDesconto.java
+ SOLID.OCP.problem.ControleDeDesconto
+aulaParadigmas/tipos/naoprimitivos/Unboxing.java
+ one.digitalinovation.tipos.naoprimitivos.Unboxing
+aulaParadigmas/classes/pessoa/Pessoa.java
+ one.digitalinovation.classes.pessoa.Pessoa
+trabalhandoComDatas/javaDate/Exemplo004.java
+ trabalhandoComDatas.javaDate.Exemplo004
+aulaParadigmas/abstracts/Programa.java
+ aulaParadigmas.abstracts.Programa
+aulas/OrientacaoObjetos/part03/EncapsulamentoHerancaEPolimorfismo/Exercicio/Programa.java
+ aulas.OrientacaoObjetos.part03.EncapsulamentoHerancaEPolimorfismo.Exercicio.Programa
+SOLID/ISP/problem/Pato.java
+ SOLID.ISP.problem.Pato
+trabalhandoComDatas/javaDate/Exemplo005.java
+ trabalhandoComDatas.javaDate.Exemplo005
+aulas/OrientacaoObjetos/part04/exemploEquals/exemplo1/Veiculo.java
+ aulas.OrientacaoObjetos.part04.exemploEquals.exemplo1.Veiculo
+SOLID/OCP/solution/DescontoLivroAutoAjuda.java
+ SOLID.OCP.solution.DescontoLivroAutoAjuda
+aulaParadigmas/tipos/naoprimitivos/Naoprimitivos.java
+ one.digitalinovation.tipos.naoprimitivos.Naoprimitivos
+SOLID/OCP/solution/ControleDeDesconto.java
+ SOLID.OCP.solution.ControleDeDesconto
+SOLID/SRP/problem/Produto.java
+ SOLID.SRP.problem.Produto
+aulaParadigmas/classes/pessoa/ProgramaDoUsuario.java
+ one.digitalinovation.classes.pessoa.ProgramaDoUsuario
+trabalhandoComDatas/javaLocalDate/Exemplo011.java
+ trabalhandoComDatas.javaLocalDate.Exemplo011
+aula01/operadores/Matematicos.java
+ operadores.Matematicos
+aulaParadigmas/tipos/tipagem/TipagemEstatica.java
+ one.digitalinovation.tipos.tipagem.TipagemEstatica
+trabalhandoComDatas/javaLocalDate/Exemplo010.java
+ trabalhandoComDatas.javaLocalDate.Exemplo010
+aulaParadigmas/tipos/primitivos/Primitivos.java
+ one.digitalinovation.tipos.primitivos.Primitivos
+aula01/operadores/Incremento.java
+ operadores.Incremento
+SOLID/SRP/problem/OrdemDeCompra.java
+ SOLID.SRP.problem.OrdemDeCompra
+SOLID/ISP/solution/Pinguim.java
+ SOLID.ISP.solution.Pinguim
+SOLID/OCP/problem/DescontoLivroInfantil.java
+ SOLID.OCP.problem.DescontoLivroInfantil
+aulaParadigmas/tipos/primitivos/DefaultValue.java
+ one.digitalinovation.tipos.primitivos.Default
+ one.digitalinovation.tipos.primitivos.DefaultValue
+aula01/operadores/Logicos.java
+ operadores.Logicos
+aulaParadigmas/interfaces/Gol.java
+ aulaParadigmas.interfaces.Gol
+trabalhandoComDatas/javaDate/Exemplo003.java
+ trabalhandoComDatas.javaDate.Exemplo003
+aula01/strings/Strings.java
+ strings.Strings
+aulaParadigmas/statics/Cachorro.java
+ one.digitalinovation.statics.Cachorro
+trabalhandoComDatas/javaDateFormat/Exemplo009.java
+ trabalhandoComDatas.javaDateFormat.Exemplo009
+trabalhandoComDatas/javaDate/Exercicio001.java
+ trabalhandoComDatas.javaDate.Exercicio001
+aulaParadigmas/classes/pessoa/PessoaFisica.java
+ one.digitalinovation.classes.pessoa.PessoaFisica
+SOLID/DIP/solution/MySqlConnection.java
+ SOLID.DIP.solution.MySqlConnection
+aulaParadigmas/interfaces/Veiculo.java
+ aulaParadigmas.interfaces.Veiculo
+aulas/OrientacaoObjetos/part03/EncapsulamentoHerancaEPolimorfismo/Encapsulamento/Programa.java
+ aulas.OrientacaoObjetos.part03.EncapsulamentoHerancaEPolimorfismo.Encapsulamento.Programa
+aula01/whiles/While.java
+ whiles.While
+tratamentoDeExcecao/ExecptionCriadaLetraA.java
+ tratamentoDeExcecao.ExecptionCriadaLetraA
+aula01/strings/StringBuilder.java
+ strings.StringBuilder
+aulaParadigmas/tipos/tipagem/TipagemForte.java
+ one.digitalinovation.tipos.tipagem.TipagemForte
+aulas/OrientacaoObjetos/part03/EncapsulamentoHerancaEPolimorfismo/Heranca/Programa.java
+ aulas.OrientacaoObjetos.part03.EncapsulamentoHerancaEPolimorfismo.Heranca.Programa
+aulaDebug/imc/CalculadorDeImc.java
+ imc.CalculadorDeImc
+trabalhandoComDatas/javaLocalDate/Exemplo012.java
+ trabalhandoComDatas.javaLocalDate.Exemplo012
+aulaParadigmas/interfaces/Carro.java
+ aulaParadigmas.interfaces.Carro
+aulaParadigmas/classes/usuario/SuperUsuario.java
+ one.digitalinovation.classes.usuario.SuperUsuario
+aula01/ifs/IF.java
+ ifs.IF
+aulaParadigmas/tipos/tipagem/TipoInferido.java
+ one.digitalinovation.tipos.tipagem.TipoInferido
+aulas/OrientacaoObjetos/part01/paradigma/exemplo001/ExemploMetodos.java
+ aulas.OrientacaoObjetos.part01.paradigma.exemplo001.ExemploMetodos
+trabalhandoComDatas/javaDate/Exemplo002.java
+ trabalhandoComDatas.javaDate.Exemplo002
+trabalhandoComDatas/javaLocalDate/Exemplo013.java
+ trabalhandoComDatas.javaLocalDate.Exemplo013
+SOLID/ISP/solution/Ave.java
+ SOLID.ISP.solution.Ave
+aulaParadigmas/classes/usuario/ProgramaDoSuperUsuario.java
+ one.digitalinovation.classes.usuario.ProgramaDoSuperUsuario
+aulaDebug/Programa.java
+ Programa
+aulas/OrientacaoObjetos/part03/EncapsulamentoHerancaEPolimorfismo/Heranca/Carro.java
+ aulas.OrientacaoObjetos.part03.EncapsulamentoHerancaEPolimorfismo.Heranca.Carro
+aulaParadigmas/finals/HardcoreGamer.java
+ one.digitalinovation.finals.HardcoreGamer
+trabalhandoComDatas/javaCalendar/Exemplo005.java
+ trabalhandoComDatas.javaCalendar.Exemplo005
+aulaParadigmas/classes/cliente/ProgramaDoCliente.java
+ one.digitalinovation.classes.cliente.ProgramaDoCliente
+SOLID/ISP/solution/Pato.java
+ SOLID.ISP.solution.Pato
+aula01/operadores/Igualdade.java
+ operadores.Igualdade
+aulas/OrientacaoObjetos/part04/exemploThis/Motocicleta.java
+ aulas.OrientacaoObjetos.part04.exemploThis.Motocicleta
+aulaParadigmas/finals/Gamer.java
+ one.digitalinovation.finals.Gamer
+aulaParadigmas/classes/Programa.java
+ one.digitalinovation.classes.Programa
+aulas/OrientacaoObjetos/part04/ExemploSuper/Carro.java
+ aulas.OrientacaoObjetos.part04.ExemploSuper.Carro
+aulas/OrientacaoObjetos/part04/ExemploSuper/Veiculo.java
+ aulas.OrientacaoObjetos.part04.ExemploSuper.Veiculo
+trabalhandoComDatas/javaCalendar/Exercicio/Exercicio001.java
+ trabalhandoComDatas.javaCalendar.Exercicio.Exercicio001
+trabalhandoComDatas/javaDateFormat/Exemplo008.java
+ trabalhandoComDatas.javaDateFormat.Exemplo008
+aulaParadigmas/interfaces/Automovel.java
+ aulaParadigmas.interfaces.Automovel
+aulas/OrientacaoObjetos/part04/exemploThis/Carro.java
+ aulas.OrientacaoObjetos.part04.exemploThis.Carro
+aulas/OrientacaoObjetos/part01/paradigma/exemplo001/ExemploInstanciandoObjeto.java
+ aulas.OrientacaoObjetos.part01.paradigma.exemplo001.ExemploInstanciandoObjeto
+aulas/OrientacaoObjetos/part04/exemploEquals/exemplo1/Exemplo1.java
+ aulas.OrientacaoObjetos.part04.exemploEquals.exemplo1.Exemplo1
+aulaDebug/pessoa/Pessoa.java
+ pessoa.Pessoa
+trabalhandoComDatas/javaCalendar/Exercicio/Exercicio002.java
+ trabalhandoComDatas.javaCalendar.Exercicio.Exercicio002
+trabalhandoComDatas/javaCalendar/Exercicio/Fatura.java
+ trabalhandoComDatas.javaCalendar.Exercicio.Fatura
